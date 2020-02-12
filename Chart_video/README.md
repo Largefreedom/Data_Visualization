@@ -1,7 +1,8 @@
 # 利用matplotlib绘制竞赛条形动态图
 
 ### 数据来源：[1900-2018城市人口数量](https://gist.githubusercontent.com/johnburnmurdoch/4199dbe55095c3e13de8d5b2e5e5307a/raw/fa018b25c24b7b5f47fd0568937ff6c04e384786/city_populations)
-
+#### 展示效果
+![end_imag.gif](http://ww1.sinaimg.cn/large/007wRTdIly1gbtf1twui3g30q20f9kjl.gif)
 #### 函数功能划分:dango:
 
 * 数据获取，颜色代码生成，地区:颜色 字典键值对生成:collision:
