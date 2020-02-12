@@ -16,7 +16,7 @@
 
 ---
 
-* 利用**matplotlib.animation.FuncAnimation()**进行动画生成；
+* 利用 **matplotlib.animation.FuncAnimation()** 进行动画生成；
 
 #### 个人建议：代码结合博客食用效果更佳，博客地址：https://blog.csdn.net/weixin_42512684
 
