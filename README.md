@@ -12,7 +12,7 @@
 
 ##### 已完成的Demo:
 
-* charts_video，动态排序直方图:bar_chart:；
+* **Charts_video**，动态排序直方图:bar_chart:；
 * 还在更新中...
 
 ----
