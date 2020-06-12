@@ -12,7 +12,8 @@
 
 ##### 已完成的Demo:
 
-* **Charts_video**，动态排序直方图:bar_chart:；
+* **Charts_video**，[动态排序直方图:bar_chart:](https://github.com/Largefreedom/Data_Visualization/tree/master/Chart_video)；
+![end_imag.gif](http://ww1.sinaimg.cn/large/007wRTdIly1gbtf1twui3g30q20f9kjl.gif)
 * 还在更新中...
 
 ----
