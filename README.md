@@ -14,7 +14,9 @@
 
 * **Charts_video**，[动态排序直方图:bar_chart:](https://github.com/Largefreedom/Data_Visualization/tree/master/Chart_video)；
 ![end_imag.gif](http://ww1.sinaimg.cn/large/007wRTdIly1gbtf1twui3g30q20f9kjl.gif)
-* 还在更新中...
+
+* **zhihu_answer** [《有哪些让你不得不服气的神逻辑？》答案爬取并数据可视化](https://github.com/Largefreedom/Data_Visualization/tree/master/zhihu_answer) 
+还在更新中...
 
 ----
 
