@@ -17,6 +17,8 @@
 
 * **zhihu_answer** [《有哪些让你不得不服气的神逻辑？》答案爬取并数据可视化](https://github.com/Largefreedom/Data_Visualization/tree/master/zhihu_answer) 
 
+* **WordartVideo**[《Python绘制词云视频》](https://github.com/Largefreedom/Data_Visualization/tree/master/WordartVideo)
+![shipinapi](https://images.zeroingpython.top/img/shipinapi.gif)
 
 ----
 还在更新中...
