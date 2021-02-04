@@ -27,7 +27,7 @@
 
 效果如下：
 
-![shipinapi](https://images.zeroingpython.top/img/shipinapi.gif)
+![shipinapi22222](https://images.zeroingpython.top/img/shipinapi22222.gif)
 
 ---
 
